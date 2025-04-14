@@ -1,3 +1,6 @@
-# -Big-Data-Projects
-This repository showcases two comprehensive big data projects developed using Hadoop’s MapReduce framework and Apache Pig on AWS EMR.These projects demonstrate the design and optimization of scalable data processing pipelines for real-world datasets, including taxi trip records and Olympic Games data. The goal was to efficiently process, analyze, and extract meaningful insights from large-scale structured data using distributed computing techniques.
+# Project 2: Olympic Medal Analysis using Apache Pig
+Analyzed structured Olympic Games datasets with Pig Latin scripts.
+Performed region-wise medal tally computations and rankings.
+Used Python UDFs to handle missing values and ensure clean output formatting.
+Optimized Pig workflows for high-performance aggregation and filtering over large datasets in HDFS.
 
